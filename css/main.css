@@ -1,0 +1,125 @@
+body{
+	font-family: 'MaisonNeueLight', Roboto, Arial, sans-serif;
+	font-style: normal;
+}
+.about p {
+	font-size: 1.7rem;
+}
+.ml-auto{
+	margin-left: auto;
+}
+/*.s3rd .btn-outline-light {
+	background-color: transparent;
+	color: black;
+	border-radius: 18px;
+	border-color: black;
+	font-size: 1.5rem;
+}
+.s3rd .btn-outline-light:hover {
+	background-color: black;
+	color: white;
+}
+.s3rd h2 {
+	font-size: 2.1rem;
+}*/
+.mx-5p{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.mt-6r-mr-3r{
+	margin-top: 6rem;
+	margin-bottom: 3rem;
+}
+.p-10p{
+	padding: 10%;
+}
+.h-35vw{
+	height: 35vw;
+}
+	.h-35vw .p-btn{
+		font-size: 1.4rem; 
+		background: transparent; 
+		padding: 0.5rem; 
+		border: 2px solid white; 
+		border-radius: 1.5rem;
+	}
+.h-50vw{
+	height: 50vw;
+}
+.text_bigger{
+	font-size: 2.2rem !important;
+}
+.about .mx-5p .notFull{
+	width: 60%;
+}
+.about .h-35vw .notFull{
+	width: 100%;
+}
+.rate_give{
+	color: white;
+	padding-left: 8%;
+}
+	.rate_give .margT{
+		height: 20%;
+	}
+	.rate_give .mustW{
+		width: 40%;
+	}
+	.rate_give .notFull{
+		width: 60%;
+	}
+	.rate_give .notFull2{
+		width: 80%;
+	}
+.card{
+	color: white;
+}
+	.card .mustW{
+		width: 40%;
+	}
+	.card .margT{
+		height: 20%;
+	}
+	.card .notFull{
+		width: 75%;
+	}
+	.card .notFull2{
+		width: 90%;
+	}
+.declaration{
+	height: 20vw;
+	padding: 0 15% 0 15%;
+}
+	.declaration .margT{
+		height: 20%;
+	}
+	.declaration button{
+		width: 100%;
+		background: transparent;
+		padding: 3vw 15% 3vw 15%;
+		box-shadow: 0 0 6px 0 rgba(157, 96, 212, 0.5);
+		border: solid 10px transparent;
+		background-image: linear-gradient(rgba(242, 242, 242, 1), rgba(242, 242, 242, 1), rgba(242, 242, 242, 1), rgba(242, 242, 242, 1)),
+			linear-gradient(101deg, #F1C991, #E3A5B6, #A58EDA, #98CEF9);
+		background-origin: border-box;
+		background-clip: content-box, border-box;
+		border-radius: 4rem;
+		box-shadow: 2px 1000px 1px #f2f2f2 inset;
+		font-size: 3rem;
+	}
+@media screen and (max-width: 975px) {
+	/*.notFull{
+		width: 100%;
+	}*/
+	.h-35vw{
+		height: auto;
+	}
+}
+@media screen and (max-width: 1800px) {
+	.h-35vw p{
+		font-size: 1.5rem;
+	}
+	.text_bigger{
+		font-size: 1.9rem !important;
+	}
+}

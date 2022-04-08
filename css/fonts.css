@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "MaisonNeueBold";  
+	src: url("../fonts/Maison Neue Bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal;
+}
+@font-face {
+	font-family: "MaisonNeueLight";  
+	src: url("../fonts/Maison Neue Light.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ALSHauss";  
+	src: url("../fonts/ALSHauss-Light.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal;
+}
+@font-face {
+	font-family: "HelveticaNeue";  
+	src: url("../fonts/HelveticaNeueCyr-Light.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal;
+}
+@font-face {
+	font-family: "HelveticaNeueBold";  
+	src: url("../fonts/Helvetica Neue Bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal;
+}
